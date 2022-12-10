@@ -1,0 +1,13 @@
+
+q
+java:S1450"VRemove the "eventos" field and declare it as a local variable in the relevant methods.(÷œ‡Ôûÿÿÿÿ
+j
+java:S1450"TRemove the "login" field and declare it as a local variable in the relevant methods.(ÒûìÌ
+o
+java:S1450"TRemove the "senha" field and declare it as a local variable in the relevant methods.(·­‰¡ûÿÿÿÿ
+?
+java:S1068")Remove this unused "login" private field.(ÒûìÌ
+D
+java:S1068")Remove this unused "senha" private field.(·­‰¡ûÿÿÿÿ
+F
+java:S1068"+Remove this unused "eventos" private field.(÷œ‡Ôûÿÿÿÿ

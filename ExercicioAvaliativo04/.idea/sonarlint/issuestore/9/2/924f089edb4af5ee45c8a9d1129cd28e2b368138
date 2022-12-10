@@ -1,0 +1,22 @@
+
+0
+java:S1220""Move this file to a named package.
+]
+java:S1854"@Remove this useless assignment to local variable "pistaPremium".(ˆ¥ÝÖ8¾ê–­É0
+W
+java:S1854"<Remove this useless assignment to local variable "camarote".(ÑÝ­ûÿÿÿÿ
+Y
+java:S1854"CRemove this useless assignment to local variable "cadeiraSuperior".(ö‡ ¦
+^
+java:S1854"CRemove this useless assignment to local variable "cadeiraInferior".(£Ãó•úÿÿÿÿ
+O
+java:S1481"4Remove this unused "cadeiraInferior" local variable.(£Ãó•úÿÿÿÿ
+J
+java:S1481"4Remove this unused "cadeiraSuperior" local variable.(ö‡ ¦
+H
+java:S1481"-Remove this unused "camarote" local variable.(ÑÝ­ûÿÿÿÿ
+N
+java:S1481"1Remove this unused "pistaPremium" local variable.(ˆ¥ÝÖ8Îê–­É0
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(óý°†
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(‘ ÌÚ8Óê–­É0
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ÂëûÚýÿÿÿÿ8Ôê–­É0
